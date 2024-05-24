@@ -6,7 +6,7 @@
 ## About
 
 
-This is an individual challenge at the Swift Marathon
+This is an individual challenge at the Swift Marathon.
 The task is to create an application for mixing colors 🎨
 
 ## Documentation
