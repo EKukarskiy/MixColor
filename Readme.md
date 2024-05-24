@@ -1,4 +1,5 @@
 <p align="center">
+<img src="https://i.ibb.co/4RmnZpn/MixColor.png" width="726">
 </p>
 
 
